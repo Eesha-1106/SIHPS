@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:28-11-2024
+## Register Number:24900107
+## Name:Eesha Ranka
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,49 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+```
+User profiles: Connecting all the alumni and the students to the portal allowing them to create profiles with their work experience , education and interests.
 
+User-Friendly Interface: Design a simple, intuitive interface that's easy to navigate , Ensure the platform works well on both desktop and mobile devices.
 
+Alumni Mentorship Program : Match alumni with students  based on industry, expertise, and career goals for mentorship ,Use AI to suggest mentor-mentee pairs and provide in-app messaging, video calls, and progress tracking tools.
+
+Alumni Podcast and Stories: Create a platform for alumni to share success stories, career advice, or motivational talks , Offer recording and publishing tools within the app, alongside options for live sessions.
+
+Achievement Showcase:  Allow alumni to create detailed portfolios showcasing their achievements, projects, or businesses.
+                   
+Student-Alumni Collaboration : Facilitate partnerships between alumni and current students for internships, projects, or business ventures.exclusive deals or discounts from businesses owned by alumni or partnered organizations
+
+Fund Allocation: Options for donors to specify which projects or initiatives their donations should support, Allow users to view their donation history and print receipts for tax purposes , Allow donors to choose if they want to remain anonymous.
+
+```
 ## Proposed Solution / Architecture Diagram
+
+![Er](https://github.com/user-attachments/assets/378776c7-1250-4c94-b67b-6d2fa504c1f3)
 
 
 ## Use Cases
 
+![use cases](https://github.com/user-attachments/assets/b3b60ec4-3dfe-4c2c-94c0-36d93da35514)
+
 
 ## Technology Stack
-
+```
+React.js
+Html & css
+Bootstrap
+Node.js
+Express.js
+Paypal
+MongoDB
+Git
+```
 
 ## Dependencies
+```
+Design -10 days 
+Development - 30 days 
+Data collection -10 days
+Testing -10 days
+```
 
